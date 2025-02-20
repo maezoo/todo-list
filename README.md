@@ -1,4 +1,4 @@
-# Coin Tracker
+# Todo List
 
 Learn and dominate the React ecosystem once and for all.
 
